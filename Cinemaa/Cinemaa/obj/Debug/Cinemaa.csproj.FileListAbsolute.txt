@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.Form2.resources
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\bin\Debug\Cinemaa.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\bin\Debug\Cinemaa.exe
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\bin\Debug\Cinemaa.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.exe
+c:\users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.Form3.resources
+C:\Users\admin\documents\visual studio 2017\Projects\Cinemaa\Cinemaa\obj\Debug\Cinemaa.Form4.resources
